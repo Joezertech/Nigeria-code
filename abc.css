@@ -1,0 +1,19 @@
+.center{
+    text-align: center;
+    height: 100px;
+    background-color: rgb(251, 255, 0);
+}
+
+.NOW{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+       }
+
+.footer{
+    text-align: center;
+    height: 100px;
+    background-color: rgb(255, 0, 0);
+    }
+
+    
